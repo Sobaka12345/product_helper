@@ -1,7 +1,7 @@
 # product_helper
 Bachelor project. Android Qt/Qml application that grants consumer to buy better food products.
 <br><br>
-<b>You can scan product and get bit of useful information about it.</b><br>
+<b>You can scan product and get bit of useful information about it (if it exists in database ;D).</b><br>
 <ul>
 <li><b>NOVA</b> - a <a href="https://world.openfoodfacts.org/nova">classification</a> in 4 groups to highlight the degree of processing of foods </li>
 <li><b>NUTRISCORE</b> - <a href='https://world.openfoodfacts.org/nutriscore'>logo</a> that shows the nutritional quality of food products</li>
