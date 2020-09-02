@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ScanForm.qml</file>
+        <file>HistoryForm.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ProductsForm.qml</file>
+        <file>SwipePane.qml</file>
+        <file>ProductParameters.qml</file>
+        <file>models/A.obj</file>
+        <file>models/B.obj</file>
+        <file>models/C.obj</file>
+        <file>models/D.obj</file>
+        <file>models/1.obj</file>
+        <file>models/2.obj</file>
+        <file>models/3.obj</file>
+        <file>models/4.obj</file>
+        <file>models/5.obj</file>
+        <file>models/6.obj</file>
+        <file>models/7.obj</file>
+        <file>models/8.obj</file>
+        <file>models/9.obj</file>
+        <file>models/0.obj</file>
+        <file>models/dot.obj</file>
+        <file>models/Board.obj</file>
+        <file>models/circle.obj</file>
+        <file>models/defis.obj</file>
+        <file>models/Titles.obj</file>
+        <file>ProductSearch.qml</file>
+        <file>CategoryList.qml</file>
+        <file>ProductSheet.qml</file>
+        <file>ProductInfo.qml</file>
+        <file>ButtonDelegate.qml</file>
+        <file>pics/a.png</file>
+        <file>pics/b.png</file>
+        <file>pics/c.png</file>
+        <file>pics/d.png</file>
+        <file>pics/e.png</file>
+        <file>pics/1.png</file>
+        <file>pics/2.png</file>
+        <file>pics/3.png</file>
+        <file>pics/4.png</file>
+        <file>FeedbackForm.qml</file>
+        <file>pics/star_empty.png</file>
+        <file>pics/star_full.png</file>
+        <file>pics/loupe.svg</file>
+        <file>pics/settings.svg</file>
+    </qresource>
+    <qresource prefix="/shader">
+        <file>model_fragment.fsh</file>
+        <file>model_vertex.vsh</file>
+    </qresource>
+</RCC>
