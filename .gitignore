@@ -71,8 +71,3 @@ Thumbs.db
 *.dll
 *.exe
 
-#media
-*.obj
-*.png
-*.svg
-*.jpg
